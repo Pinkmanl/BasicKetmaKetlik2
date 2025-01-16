@@ -1,0 +1,14 @@
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\bin\Debug\net9.0\HarajatlarToplaminiHisoblash.exe
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\bin\Debug\net9.0\HarajatlarToplaminiHisoblash.deps.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\bin\Debug\net9.0\HarajatlarToplaminiHisoblash.runtimeconfig.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\bin\Debug\net9.0\HarajatlarToplaminiHisoblash.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\bin\Debug\net9.0\HarajatlarToplaminiHisoblash.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\obj\Debug\net9.0\HarajatlarToplaminiHisoblash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\obj\Debug\net9.0\HarajatlarToplaminiHisoblash.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\obj\Debug\net9.0\HarajatlarToplaminiHisoblash.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\obj\Debug\net9.0\HarajatlarToplaminiHisoblash.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\obj\Debug\net9.0\HarajatlarToplaminiHisoblash.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\obj\Debug\net9.0\refint\HarajatlarToplaminiHisoblash.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\obj\Debug\net9.0\HarajatlarToplaminiHisoblash.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\obj\Debug\net9.0\HarajatlarToplaminiHisoblash.genruntimeconfig.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\HarajatlarToplaminiHisoblash\obj\Debug\net9.0\ref\HarajatlarToplaminiHisoblash.dll

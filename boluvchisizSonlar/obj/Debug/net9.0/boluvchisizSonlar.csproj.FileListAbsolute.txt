@@ -1,0 +1,14 @@
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\bin\Debug\net9.0\boluvchisizSonlar.exe
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\bin\Debug\net9.0\boluvchisizSonlar.deps.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\bin\Debug\net9.0\boluvchisizSonlar.runtimeconfig.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\bin\Debug\net9.0\boluvchisizSonlar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\bin\Debug\net9.0\boluvchisizSonlar.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\obj\Debug\net9.0\boluvchisizSonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\obj\Debug\net9.0\boluvchisizSonlar.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\obj\Debug\net9.0\boluvchisizSonlar.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\obj\Debug\net9.0\boluvchisizSonlar.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\obj\Debug\net9.0\boluvchisizSonlar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\obj\Debug\net9.0\refint\boluvchisizSonlar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\obj\Debug\net9.0\boluvchisizSonlar.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\obj\Debug\net9.0\boluvchisizSonlar.genruntimeconfig.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\boluvchisizSonlar\obj\Debug\net9.0\ref\boluvchisizSonlar.dll

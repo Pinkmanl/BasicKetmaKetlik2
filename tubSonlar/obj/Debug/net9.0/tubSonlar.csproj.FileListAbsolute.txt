@@ -1,0 +1,14 @@
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\bin\Debug\net9.0\tubSonlar.exe
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\bin\Debug\net9.0\tubSonlar.deps.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\bin\Debug\net9.0\tubSonlar.runtimeconfig.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\bin\Debug\net9.0\tubSonlar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\bin\Debug\net9.0\tubSonlar.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\obj\Debug\net9.0\tubSonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\obj\Debug\net9.0\tubSonlar.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\obj\Debug\net9.0\tubSonlar.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\obj\Debug\net9.0\tubSonlar.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\obj\Debug\net9.0\tubSonlar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\obj\Debug\net9.0\refint\tubSonlar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\obj\Debug\net9.0\tubSonlar.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\obj\Debug\net9.0\tubSonlar.genruntimeconfig.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\tubSonlar\obj\Debug\net9.0\ref\tubSonlar.dll

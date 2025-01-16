@@ -1,0 +1,14 @@
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\bin\Debug\net9.0\armstrongSonlar.exe
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\bin\Debug\net9.0\armstrongSonlar.deps.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\bin\Debug\net9.0\armstrongSonlar.runtimeconfig.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\bin\Debug\net9.0\armstrongSonlar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\bin\Debug\net9.0\armstrongSonlar.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\obj\Debug\net9.0\armstrongSonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\obj\Debug\net9.0\armstrongSonlar.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\obj\Debug\net9.0\armstrongSonlar.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\obj\Debug\net9.0\armstrongSonlar.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\obj\Debug\net9.0\armstrongSonlar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\obj\Debug\net9.0\refint\armstrongSonlar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\obj\Debug\net9.0\armstrongSonlar.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\obj\Debug\net9.0\armstrongSonlar.genruntimeconfig.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\armstrongSonlar\armstrongSonlar\obj\Debug\net9.0\ref\armstrongSonlar.dll

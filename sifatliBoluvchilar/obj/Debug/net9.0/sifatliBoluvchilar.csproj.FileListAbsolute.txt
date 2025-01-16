@@ -1,0 +1,14 @@
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\bin\Debug\net9.0\sifatliBoluvchilar.exe
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\bin\Debug\net9.0\sifatliBoluvchilar.deps.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\bin\Debug\net9.0\sifatliBoluvchilar.runtimeconfig.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\bin\Debug\net9.0\sifatliBoluvchilar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\bin\Debug\net9.0\sifatliBoluvchilar.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\obj\Debug\net9.0\sifatliBoluvchilar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\obj\Debug\net9.0\sifatliBoluvchilar.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\obj\Debug\net9.0\sifatliBoluvchilar.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\obj\Debug\net9.0\sifatliBoluvchilar.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\obj\Debug\net9.0\sifatliBoluvchilar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\obj\Debug\net9.0\refint\sifatliBoluvchilar.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\obj\Debug\net9.0\sifatliBoluvchilar.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\obj\Debug\net9.0\sifatliBoluvchilar.genruntimeconfig.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\sifatliBoluvchilar\obj\Debug\net9.0\ref\sifatliBoluvchilar.dll

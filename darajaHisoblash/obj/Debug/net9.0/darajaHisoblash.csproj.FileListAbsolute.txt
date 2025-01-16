@@ -1,0 +1,14 @@
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\bin\Debug\net9.0\darajaHisoblash.exe
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\bin\Debug\net9.0\darajaHisoblash.deps.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\bin\Debug\net9.0\darajaHisoblash.runtimeconfig.json
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\bin\Debug\net9.0\darajaHisoblash.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\bin\Debug\net9.0\darajaHisoblash.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\obj\Debug\net9.0\darajaHisoblash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\obj\Debug\net9.0\darajaHisoblash.AssemblyInfoInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\obj\Debug\net9.0\darajaHisoblash.AssemblyInfo.cs
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\obj\Debug\net9.0\darajaHisoblash.csproj.CoreCompileInputs.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\obj\Debug\net9.0\darajaHisoblash.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\obj\Debug\net9.0\refint\darajaHisoblash.dll
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\obj\Debug\net9.0\darajaHisoblash.pdb
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\obj\Debug\net9.0\darajaHisoblash.genruntimeconfig.cache
+C:\Users\dilmurod\Desktop\BasicKetmaKetlik2\darajaHisoblash\obj\Debug\net9.0\ref\darajaHisoblash.dll
